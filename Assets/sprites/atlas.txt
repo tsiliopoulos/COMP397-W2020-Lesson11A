@@ -1,0 +1,16 @@
+bullet 1 1 16 16
+cloud 19 1 226 178
+island 1 181 62 62
+megaman-idle-0 65 181 45 58
+megaman-idle-1 112 181 46 58
+megaman-idle-2 160 181 46 58
+megaman-idle-3 1 245 43 58
+megaman-run-0 46 245 53 55
+megaman-run-1 101 245 38 58
+megaman-run-2 141 245 40 57
+megaman-run-3 183 245 47 56
+plane1 1 305 62 51
+plane2 65 305 62 51
+plane3 129 305 62 51
+restartButton 1 358 150 50
+startButton 1 410 150 50
