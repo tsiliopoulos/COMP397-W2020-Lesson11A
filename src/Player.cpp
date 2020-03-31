@@ -3,8 +3,10 @@
 
 Player::Player(): m_currentFrame(0), m_currentAnimationState(PLAYER_IDLE_RIGHT)
 {
-	TheTextureManager::Instance()->loadSpriteSheet("../Assets/sprites/atlas.txt",
-		"../Assets/sprites/atlas.png", "spritesheet", TheGame::Instance()->getRenderer());
+	TheTextureManager::Instance()->loadSpriteSheet(
+		"../Assets/sprites/atlas.txt",
+		"../Assets/sprites/atlas.png", 
+		"spritesheet", TheGame::Instance()->getRenderer());
 
 	m_pSpriteSheet = TheTextureManager::Instance()->getSpriteSheet("spritesheet");
 	

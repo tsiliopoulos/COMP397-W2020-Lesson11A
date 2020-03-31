@@ -54,11 +54,14 @@ bool TextureManager::load(const std::string& file_name, const std::string& id, S
 	return false;
 }
 
-bool TextureManager::loadSpriteSheet(const std::string& data_file_name, const std::string& texture_file_name, const std::string& sprite_sheet_name, SDL_Renderer* renderer)
+bool TextureManager::loadSpriteSheet(
+	const std::string& data_file_name, 
+	const std::string& texture_file_name, 
+	const std::string& sprite_sheet_name, SDL_Renderer* renderer)
 {
-	std::string input;
+	std::string inputLine;
 	std::fstream dataFile; // create file stream object
-	std::string delim = " ";
+	std::string delimeter = " ";
 
 	// open the text data file
 	dataFile.open(data_file_name, std::ios::in);
@@ -70,17 +73,17 @@ bool TextureManager::loadSpriteSheet(const std::string& data_file_name, const st
 	if(dataFile) 
 	{
 		// read one line at a time
-		while(std::getline(dataFile, input))
+		while(std::getline(dataFile, inputLine))
 		{
 			Frame frame;
-			size_t pos = 0;
+			size_t linePosition = 0;
 			std::vector<std::string> tokens;
 
 			for (auto i = 0; i < 5; ++i)
 			{
-				pos = input.find(delim);
-				tokens.push_back(input.substr(0, pos));
-				input.erase(0, pos + 1);
+				linePosition = inputLine.find(delimeter);
+				tokens.push_back(inputLine.substr(0, linePosition));
+				inputLine.erase(0, linePosition + 1);
 			}
 
 			frame.name = tokens[0];

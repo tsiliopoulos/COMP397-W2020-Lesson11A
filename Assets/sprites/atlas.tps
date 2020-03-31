@@ -256,6 +256,15 @@
             <key type="filename">../textures/plane1.png</key>
             <key type="filename">../textures/plane2.png</key>
             <key type="filename">../textures/plane3.png</key>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/explosion1.png</key>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/explosion2.png</key>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/explosion3.png</key>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/explosion4.png</key>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/explosion5.png</key>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/explosion6.png</key>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/explosion7.png</key>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/planeflash1.png</key>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/planeflash2.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -286,6 +295,67 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/coin01.png</key>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/coin02.png</key>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/coin03.png</key>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/coin04.png</key>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/coin05.png</key>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/coin06.png</key>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/coin07.png</key>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/coin08.png</key>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/coin09.png</key>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/coin10.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>11,10,22,20</rect>
+                <key>scale9Paddings</key>
+                <rect>11,10,22,20</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/enemy1.png</key>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/enemy2.png</key>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/enemy3.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>23,19,47,37</rect>
+                <key>scale9Paddings</key>
+                <rect>23,19,47,37</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/smallexplosion1.png</key>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/smallexplosion2.png</key>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/smallexplosion3.png</key>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/smallexplosion4.png</key>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/smallexplosion5.png</key>
+            <key type="filename">../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/smallexplosion6.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>8,8,16,16</rect>
+                <key>scale9Paddings</key>
+                <rect>8,8,16,16</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
         </map>
         <key>fileList</key>
         <array>
@@ -305,6 +375,34 @@
             <filename>../textures/megaman-run-1.png</filename>
             <filename>../textures/megaman-run-2.png</filename>
             <filename>../textures/megaman-run-3.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/coin01.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/coin02.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/coin03.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/coin04.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/coin05.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/coin06.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/coin07.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/coin08.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/coin09.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/coin10.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/enemy1.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/enemy2.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/enemy3.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/explosion1.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/explosion2.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/explosion3.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/explosion4.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/explosion5.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/explosion6.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/explosion7.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/planeflash1.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/planeflash2.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/smallexplosion1.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/smallexplosion2.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/smallexplosion3.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/smallexplosion4.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/smallexplosion5.png</filename>
+            <filename>../../../../../OneDrive/Documents/Courses/Centennial/COMP397 - Web Game Programming/MailPilot Assets/Assets v2/Assets/images/smallexplosion6.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

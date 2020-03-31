@@ -4,8 +4,10 @@
 
 PlaneSprite::PlaneSprite() : m_currentFrame(0)
 {
-	TheTextureManager::Instance()->loadSpriteSheet("../Assets/sprites/atlas.txt",
-		"../Assets/sprites/atlas.png", "spritesheet", TheGame::Instance()->getRenderer());
+	TheTextureManager::Instance()->loadSpriteSheet(
+		"../Assets/sprites/atlas.txt",
+		"../Assets/sprites/atlas.png", 
+		"spritesheet", TheGame::Instance()->getRenderer());
 
 	m_pSpriteSheet = TheTextureManager::Instance()->getSpriteSheet("spritesheet");
 
@@ -29,7 +31,8 @@ PlaneSprite::~PlaneSprite()
 
 void PlaneSprite::draw()
 {
-	TheTextureManager::Instance()->playAnimation("spritesheet", m_pAnimations["plane"],
+	TheTextureManager::Instance()->playAnimation(
+		"spritesheet", m_pAnimations["plane"],
 		getPosition().x, getPosition().y, m_currentFrame, 0.5f, 
 		TheGame::Instance()->getRenderer(), 0, 255, true);
 }
